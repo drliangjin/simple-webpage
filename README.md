@@ -23,6 +23,15 @@ Part 2 **TODO** list:
 
 ### Header 3: Tables
 
+| From                    | To                      | Press Alone                   | Device         |
+|-------------------------|-------------------------|-------------------------------|----------------|
+| <kbd> Command </kbd>    | <kbd> Option/Alt </kbd> | -                             | Apple Keyboard |
+| <kbd> Option/Alt </kbd> | <kbd> Command </kbd>    | -                             | Apple Keyboard |
+| <kbd> Caps Lock </kbd>  | <kbd> Ctrl </kbd>       | <kbd> ESC </kbd>              | -              |
+| <kbd> Enter </kbd>      | <kbd> Ctrl </kbd>       | <kbd> Enter </kbd>            | -              |
+| <kbd> Shift </kbd>      | <kbd> Shift </kbd>      | <kbd> ( </kbd> <kbd> ) </kbd> | -              |
+| <kbd> Ctrl </kbd>       | <kbd> Hyper </kbd>      | <kbd> Caps Lock </kbd>        | -              |
+
 ### Header 3: Documents
 
 ### Header 3: Hyper Links
