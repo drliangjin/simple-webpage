@@ -3,6 +3,11 @@ by Dr Liang Jin
 
 This is part of [AcF701 Python Programming Sessions](https://github.com/drliangjin/mini-python-book).
 
+Today's **TODO** list:
+
+- [ ] Inspect this page using Chrome's Developer Tool (right click mouse and select <kbd>Inspect</kbd>)
+- [ ] Understand basic HTML structure and tags such as `<p>`, `<a>`, and `<table>`
+
 # Header 1
 ## Header 2
 ### Header 3
