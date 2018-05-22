@@ -3,38 +3,29 @@ by Dr Liang Jin
 
 This is part of [AcF701 Python Programming Sessions](https://github.com/drliangjin/mini-python-book).
 
-Today's **TODO** list:
+# Header 1: TODO
+
+Part 1 **TODO** list:
 
 - Inspect this page using Chrome's Developer Tool (right click mouse and select `Inspect`)
 - Understand basic HTML structure such as `<head>`, `<body>`, `<header>`, `<div>` and `<h1>`
 - Understand basic HTML tags such as `<p>`, `<a>`, and `<table>`
-- Understand basic HTML 
+- Understand basic CSS properties such as `class` and `id`
 
-# Header 1
-## Header 2
-### Header 3
+Part 2 **TODO** list:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Scrape text contents
+2. Scrape a table 
+3. Download a file
+4. Scrape a hyper link
 
-```markdown
-Syntax highlighted code block
+## Header 2: Scraping
 
-# Header 1
-## Header 2
-### Header 3
+### Header 3: Tables
 
-- Bulleted
-- List
+### Header 3: Documents
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Header 3: Hyper Links
 
 ### Jekyll Themes
 
