@@ -5,8 +5,10 @@ This is part of [AcF701 Python Programming Sessions](https://github.com/drliangj
 
 Today's **TODO** list:
 
-- [ ] Inspect this page using Chrome's Developer Tool (right click mouse and select <kbd>Inspect</kbd>)
-- [ ] Understand basic HTML structure and tags such as `<p>`, `<a>`, and `<table>`
+- Inspect this page using Chrome's Developer Tool (right click mouse and select `Inspect`)
+- Understand basic HTML structure such as `<head>`, `<body>`, `<header>`, `<div>` and `<h1>`
+- Understand basic HTML tags such as `<p>`, `<a>`, and `<table>`
+- Understand basic HTML 
 
 # Header 1
 ## Header 2
