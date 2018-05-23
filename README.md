@@ -15,9 +15,10 @@ Part 1 **TODO** list:
 Part 2 **TODO** list:
 
 1. Scrape text contents
-2. Scrape a table 
-3. Download a file
-4. Scrape a hyper link
+2. Scrape a table
+3. Scrape a hyper link
+4. Download a [txt file](docs/karabiner.txt)
+5. Download the following image
 
 ## Header 2: Scraping
 
