@@ -1,9 +1,9 @@
-# Welcome to Web Scraping Test Page
+# Level 1 Header: Welcome to Web Scraping Test Page
 by Dr Liang Jin
 
-This is part of [AcF701 Python Programming Sessions](https://github.com/drliangjin/mini-python-book).
+This is part of [Mini Python Programming Sessions](https://github.com/drliangjin/minipy).
 
-## Header 2: TODO
+## Level 2 Header (1): TODO
 
 Part 1 **TODO** list:
 
@@ -18,11 +18,10 @@ Part 2 **TODO** list:
 2. Scrape a table
 3. Scrape a hyper link
 4. Download a [txt file](docs/karabiner.txt)
-5. Download the following image
 
-## Header 2: Scraping
+## Level 2 Header (2): Scraping
 
-### Header 3: Tables
+### Level 3 Header (1): Tables
 
 | From                    | To                      | Press Alone                   | Device         |
 |-------------------------|-------------------------|-------------------------------|----------------|
@@ -33,6 +32,7 @@ Part 2 **TODO** list:
 | <kbd> Shift </kbd>      | <kbd> Shift </kbd>      | <kbd> ( </kbd> <kbd> ) </kbd> | -              |
 | <kbd> Ctrl </kbd>       | <kbd> Hyper </kbd>      | <kbd> Caps Lock </kbd>        | -              |
 
-### Header 3: Documents
+### Level 2 Header (2): Documents
 
-### Header 3: Hyper Links
+### Level 2 Header (3): Hyper Links
+SEC Edgar 
