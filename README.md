@@ -33,7 +33,14 @@ Part 2 **TODO** list:
 | <kbd> Ctrl </kbd>       | <kbd> Hyper </kbd>      | <kbd> Caps Lock </kbd>        | -              |
 
 ### Level 3 Header (2): Documents
-This is a sample [txt file](docs/karabiner.txt) to download using Python.
+The following is a list of sample URLs you need to practice to go through
+1. [txt file 1](docs/2012/test.txt)
+2. [txt file 2](docs/2013/test.txt)
+3. [txt file 3](docs/2014/test.txt)
+4. [txt file 4](docs/2015/test.txt)
+5. [txt file 5](docs/2016/test.txt)
+
+Can you download all these files and write the Secret words to a new file (after `Secret:`)?
 
 ### Level 3 Header (3): How to do your first project to access non-commerical databases
 To construct a new risk factor using textual analysis, first we need to harvest text data and then parse raw data from the internet (using web language) for further processing. In particular, we need a script to automate followings (suggestions for your coursework):
